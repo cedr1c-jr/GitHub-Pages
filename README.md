@@ -1,2 +1,2 @@
 # GitHub-Pages
-My favorite programming language is python because I can use negative numbers to splice lists.
+https://cedr1c-jr.github.io/GitHub-Pages/
