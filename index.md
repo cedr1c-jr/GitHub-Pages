@@ -23,12 +23,12 @@ As that's what most of my classes have been in (I'll start learning front end I 
 
 ## 🖼️ My Dog Obi
 
-![My Dog Obi](images/obi.jpg)
+![My Dog Obi](images/obi_image.jpeg)
 
 > This is my dog Obi :dog: 
 
 If the image doesn't render, you can view it here:
-[View Obi's picture](images/obi_image.jpg)
+[View Obi's picture](images/obi_image.jpeg)
 
 ---
 
